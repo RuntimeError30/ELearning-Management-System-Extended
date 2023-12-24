@@ -4,4 +4,4 @@
     { "src": "/login", "dest": "/login.php" },
     { "handle": "filesystem" }
   ]
-}
+} 
