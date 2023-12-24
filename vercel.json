@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/login", "dest": "/login.php" },
+    { "handle": "filesystem" }
+  ]
+}
