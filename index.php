@@ -1,7 +1,7 @@
 <?php
 require 'dbmsConfig.php';
 
-
+d
 
     if(!empty($_SESSION["StudentID"])){
         header("login.php");
