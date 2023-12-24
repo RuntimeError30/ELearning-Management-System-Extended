@@ -1,7 +1,7 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/index", "dest": "/login.php" },
+    { "src": "/index", "dest": "/index.php" },
     { "handle": "filesystem" }
   ]
 } 
