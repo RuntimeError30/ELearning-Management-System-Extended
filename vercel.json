@@ -1,5 +1,7 @@
 {
   "version": 2,
-  "builds": [{ "src": "login.php" }],
-  "routes": [{ "handle": "filesystem" }]
+  "routes": [
+    { "src": "/login", "dest": "/login.php" },
+    { "handle": "filesystem" }
+  ]
 }
